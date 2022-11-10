@@ -15,7 +15,7 @@ def get_task( important = False ):
  
  
  
- if __name__ == "__main__":
+if __name__ == "__main__":
  
     prompt   =  input('Do you have a task for me to complete? (y/n): ')
     priority =  True if prompt == 'y' else False
