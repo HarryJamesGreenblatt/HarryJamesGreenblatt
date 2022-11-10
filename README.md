@@ -1,5 +1,3 @@
-<h1>&#128405;</h1>
-
 ```Python
 def get_task( important = False ):
     
@@ -24,3 +22,4 @@ if __name__ == "__main__":
 
     print('\nExcellent news! Have a nice day.') if not priority else get_task( priority ) 
 ```
+<h1>&#128405;</h1>
