@@ -1,4 +1,4 @@
-![ufukkedup]{https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif}
+![ufukkedup](https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif)
 
 ```Python
 def get_task( important = False ):
