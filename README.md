@@ -1,5 +1,5 @@
 
-> ### **harry**  
+> ### **[harry](https://en.wiktionary.org/wiki/harry)**  
 > **verb**   
 > (*third-person singular simple present **harries**, present participle **harrying**, simple past and past participle **harried***) (*transitive*)   
 >    
