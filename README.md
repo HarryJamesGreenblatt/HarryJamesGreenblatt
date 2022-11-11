@@ -1,8 +1,7 @@
 
-### English
-**Verb**  
-**harry**   
-(*third-person singular simple present **harries**, present participle **harrying**, simple past and past participle **harried***) (*transitive*)   
+> ### **Verb**  
+> **harry**   
+> (*third-person singular simple present **harries**, present participle **harrying**, simple past and past participle **harried***) (*transitive*)   
    
 1. To plunder, pillage, assault.
 2. To make repeated attacks on an enemy.
