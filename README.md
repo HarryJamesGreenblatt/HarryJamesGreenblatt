@@ -1,4 +1,4 @@
-
+## A little about me:
 > ### **[harry](https://en.wiktionary.org/wiki/harry)**  
 > **verb**   
 > (*third-person singular simple present **harries**, present participle **harrying**, simple past and past participle **harried***) (*transitive*)   
@@ -16,7 +16,7 @@
 
 <br>
 
-## Questions? Comments? Concerns? Just run this super convenient script:
+## Questions? Comments? Concerns? Run the following script:
 ```Python
 def get_task( important = False ):
     
