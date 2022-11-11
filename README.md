@@ -1,8 +1,10 @@
-## Stay in school, kids...
+## This is how I'm feeling today:
 
 ![ufukkedup](https://media.giphy.com/media/HsXfypimWpPcQ/giphy.gif)   ![ufukkedup](https://media.giphy.com/media/HsXfypimWpPcQ/giphy.gif)   ![ufukkedup](https://media.giphy.com/media/HsXfypimWpPcQ/giphy.gif)
 
-## Need Something? Run This!
+<br>
+
+## Do you have a task for me to complete?
 ```Python
 def get_task( important = False ):
     
