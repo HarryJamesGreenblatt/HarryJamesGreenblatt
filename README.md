@@ -10,13 +10,13 @@
 
 <br>
 
-## This is how I'm feeling today:
+## Here's a look at today's agenda:
 
 ![ufukkedup](https://media.giphy.com/media/HsXfypimWpPcQ/giphy.gif)   ![ufukkedup](https://media.giphy.com/media/HsXfypimWpPcQ/giphy.gif)   ![ufukkedup](https://media.giphy.com/media/HsXfypimWpPcQ/giphy.gif)
 
 <br>
 
-## Do you have a task for me to complete?
+## Questions? Comments? Concerns? Just run this super convenient script:
 ```Python
 def get_task( important = False ):
     
