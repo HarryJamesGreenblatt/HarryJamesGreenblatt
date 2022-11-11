@@ -1,3 +1,15 @@
+
+### English
+**Verb**  
+**harry** (*third-person singular simple present harries, present participle harrying, simple past and past participle harried*) (*transitive*)   
+   
+1. To plunder, pillage, assault.
+2. To make repeated attacks on an enemy.
+3. To strip, lay waste, ravage. 
+4. To harass, bother or distress with demands, threats, or criticism. 
+
+
+
 ## This is how I'm feeling today:
 
 ![ufukkedup](https://media.giphy.com/media/HsXfypimWpPcQ/giphy.gif)   ![ufukkedup](https://media.giphy.com/media/HsXfypimWpPcQ/giphy.gif)   ![ufukkedup](https://media.giphy.com/media/HsXfypimWpPcQ/giphy.gif)
