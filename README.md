@@ -35,11 +35,8 @@ def get_task( important = False ):
     )
  
  
- 
-if __name__ == "__main__":
- 
-    prompt   =  input('Do you have a task for me to complete? (y/n): ')
-    priority =  True if prompt == 'y' else False
+prompt   =  input('Do you have a task for me to complete? (y/n): ')
+priority =  True if prompt == 'y' else False
 
-    print('\nExcellent news! Have a nice day.') if not priority else get_task( priority ) 
+print('\nExcellent news! Have a nice day.') if not priority else get_task( priority ) 
 ```
