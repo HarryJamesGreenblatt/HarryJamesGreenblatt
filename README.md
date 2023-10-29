@@ -11,10 +11,7 @@
 <br>
 
 ## Here's a look at today's agenda:
-
-![ufukkedup](https://media.giphy.com/media/SYEXEsV4hRpsGmWAcO/giphy.gif)
-![ufukkedup](https://media.giphy.com/media/Z9mpotZwef4kaO5DMw/giphy.gif)
-![ufukkedup](https://media.giphy.com/media/RJz9XrBYFBtU1M9VAU/giphy.gif)
+![ufukkedup](https://media.giphy.com/media/8XCbHhGQB5VXG/giphy.gif)
 
 <br>
 
